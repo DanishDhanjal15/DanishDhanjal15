@@ -19,30 +19,72 @@ Detail-oriented **Front-End Developer** with strong proficiency in building **re
 
 ## 💼 Experience
 
-### 🎖️ Executive Member
-**Thapar ACM Student Chapter** | *Sep 2025 - Present*
-- Cybersecurity focus
-- Contributing to student chapter initiatives and technical events
+<table>
+<tr>
+<td width="80px" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="60px"/>
+</td>
+<td>
 
-### 🛡️ Executive Member
-**OWASP TIET** | *Nov 2025 - Present*
-- Active member in Open Web Application Security Project
-- Focus on web application security and vulnerability research
+### Member - Google Developer Groups TIET
+**Nov 2025 - Present** · 4 mos  
+🔒 Cybersecurity Track
 
-### 🎨 Member
-**Creative Computing Society** | *Nov 2025 - Present*
-- Cybersecurity specialization
-- Exploring intersection of creative computing and security
+</td>
+</tr>
 
-### 🏆 Hackathon Winner
-**Center of Excellence | Data Science and Artificial Intelligence** | *Jan 2026 - Present*
-- Winner of Sabka AI Hackathon 2025
-- Working on AI-powered solutions and innovative projects
+<tr>
+<td width="80px" align="center">
+<img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="60px"/>
+</td>
+<td>
 
-### 👥 Member
-**Google Developer Groups TIET** | *Nov 2025 - Present*
-- Cybersecurity track
-- Participating in developer community events and workshops
+### Hackathon Winner - Center of Excellence | Data Science and AI
+**Jan 2026 - Present** · 2 mos  
+🏆 Winner of Sabka AI Hackathon 2025
+
+</td>
+</tr>
+
+<tr>
+<td width="80px" align="center">
+<img src="https://img.icons8.com/fluency/96/creative-commons.png" width="60px"/>
+</td>
+<td>
+
+### Member - Creative Computing Society
+**Nov 2025 - Present** · 4 mos  
+🔒 Cybersecurity Specialization
+
+</td>
+</tr>
+
+<tr>
+<td width="80px" align="center">
+<img src="https://owasp.org/assets/images/logo.png" width="60px"/>
+</td>
+<td>
+
+### Executive Member - OWASP TIET
+**Nov 2025 - Present** · 4 mos  
+🛡️ Web Application Security & Vulnerability Research
+
+</td>
+</tr>
+
+<tr>
+<td width="80px" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/acm/acm-original.svg" width="60px" onerror="this.src='https://img.icons8.com/color/96/code.png'"/>
+</td>
+<td>
+
+### Executive Member - Thapar ACM Student Chapter
+**Sep 2025 - Present** · 6 mos  
+🔒 Cybersecurity Focus
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
