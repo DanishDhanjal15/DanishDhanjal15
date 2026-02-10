@@ -3,7 +3,7 @@
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-danishdhanjal.xyz-2ea043?style=for-the-badge&logo=google-chrome&logoColor=white)](https://danishdhanjal.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danish-dhanjal-b2a2a9254/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danish-dhanjal-758838373/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanishDhanjal15)
 
 </div>
@@ -16,6 +16,33 @@ Detail-oriented **Front-End Developer** with strong proficiency in building **re
 - 🏆 **1st Place Winner** - Sabka AI Hackathon 2025 (TIET x University of Queensland)
 - 💻 Building secure, user-friendly applications
 - 🌐 Check out my interactive terminal portfolio: [danishdhanjal.xyz](https://danishdhanjal.xyz)
+
+## 💼 Experience
+
+### 🎖️ Executive Member
+**Thapar ACM Student Chapter** | *Sep 2025 - Present*
+- Cybersecurity focus
+- Contributing to student chapter initiatives and technical events
+
+### 🛡️ Executive Member
+**OWASP TIET** | *Nov 2025 - Present*
+- Active member in Open Web Application Security Project
+- Focus on web application security and vulnerability research
+
+### 🎨 Member
+**Creative Computing Society** | *Nov 2025 - Present*
+- Cybersecurity specialization
+- Exploring intersection of creative computing and security
+
+### 🏆 Hackathon Winner
+**Center of Excellence | Data Science and Artificial Intelligence** | *Jan 2026 - Present*
+- Winner of Sabka AI Hackathon 2025
+- Working on AI-powered solutions and innovative projects
+
+### 👥 Member
+**Google Developer Groups TIET** | *Nov 2025 - Present*
+- Cybersecurity track
+- Participating in developer community events and workshops
 
 ## 🛠️ Tech Stack
 
@@ -45,13 +72,13 @@ Detail-oriented **Front-End Developer** with strong proficiency in building **re
 
 ## 🏆 Featured Projects
 
-### 🛡️ [Protego: AI-Powered Personal Safety Platform](https://github.com/DanishDhanjal15)
+### 🛡️ [Protego: AI-Powered Personal Safety Platform](https://github.com/DanishDhanjal15/Protego)
 Full-stack safety platform with real-time monitoring and SOS alerts
 - **Tech Stack:** FastAPI, PostgreSQL, JWT, Twilio SMS
 - **AI Integration:** Whisper & LLMs for automated distress detection
 - **Features:** Real-time location tracking, emergency contacts, AI-powered threat detection
 
-### 🏠 [Aegis: Agentic AI for Home IoT Security](https://github.com/DanishDhanjal15)
+### 🏠 [Aegis: Agentic AI for Home IoT Security](https://github.com/DanishDhanjal15/Aegis)
 Plug-and-play security appliance for autonomous threat detection
 - **Features:** IoT device profiling, Honeypot deployment, Real-time defense
 - **Tech Stack:** Python, AI/ML, Network Security
@@ -89,12 +116,12 @@ Production-ready app for real-time phishing URL detection
 - 👯 Looking to collaborate on **Cybersecurity** and **Web Development** projects
 - 💬 Ask me about **JavaScript, Python, Cybersecurity, or Web Development**
 
-## � Get In Touch
+## 📫 Get In Touch
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-2ea043?style=for-the-badge)](https://danishdhanjal.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danish-dhanjal-b2a2a9254/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danish-dhanjal-758838373/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danishdhanjal70@gmail.com)
 
 </div>
