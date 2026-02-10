@@ -22,7 +22,7 @@ Detail-oriented **Front-End Developer** with strong proficiency in building **re
 <table>
 <tr>
 <td width="80px" align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="60px"/>
+<img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/events/google-developers-seeklogo.com_GVj38As.png" width="60px"/>
 </td>
 <td>
 
@@ -48,7 +48,7 @@ Detail-oriented **Front-End Developer** with strong proficiency in building **re
 
 <tr>
 <td width="80px" align="center">
-<img src="https://img.icons8.com/fluency/96/creative-commons.png" width="60px"/>
+<img src="https://media.licdn.com/dms/image/v2/D560BAQHKHZbkPvQKMg/company-logo_200_200/company-logo_200_200/0/1730743902379/creative_computing_society_logo?e=2147483647&v=beta&t=8cYvH9xKqYvVqxqPqYvH9xKqYvVqxqPqYvH9xKqYvVq" width="60px" onerror="this.src='https://img.icons8.com/fluency/96/light-on.png'"/>
 </td>
 <td>
 
@@ -74,7 +74,7 @@ Detail-oriented **Front-End Developer** with strong proficiency in building **re
 
 <tr>
 <td width="80px" align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/acm/acm-original.svg" width="60px" onerror="this.src='https://img.icons8.com/color/96/code.png'"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Association_for_Computing_Machinery_%28ACM%29_logo.svg/1200px-Association_for_Computing_Machinery_%28ACM%29_logo.svg.png" width="60px"/>
 </td>
 <td>
 
