@@ -14,7 +14,7 @@ Detail-oriented **Front-End Developer** with strong proficiency in building **re
 
 - 🔐 Cybersecurity enthusiast with **Micro Degree from IIT-GUWAHATI**
 - 🏆 **1st Place Winner** - Sabka AI Hackathon 2025 (TIET x University of Queensland)
-- 💻 Building secure, user-friendly applications
+- 💻 Building secure, user-friendly applications.
 - 🌐 Check out my interactive terminal portfolio: [danishdhanjal.xyz](https://danishdhanjal.xyz)
 
 ## 💼 Experience
