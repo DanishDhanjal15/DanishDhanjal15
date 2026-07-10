@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">{{ASCII_LINE_1}}</tspan>
+<tspan x="15" y="50">{{ASCII_LINE_2}}</tspan>
+<tspan x="15" y="70">{{ASCII_LINE_3}}</tspan>
+<tspan x="15" y="90">{{ASCII_LINE_4}}</tspan>
+<tspan x="15" y="110">{{ASCII_LINE_5}}</tspan>
+<tspan x="15" y="130">{{ASCII_LINE_6}}</tspan>
+<tspan x="15" y="150">{{ASCII_LINE_7}}</tspan>
+<tspan x="15" y="170">{{ASCII_LINE_8}}</tspan>
+<tspan x="15" y="190">{{ASCII_LINE_9}}</tspan>
+<tspan x="15" y="210">{{ASCII_LINE_10}}</tspan>
+<tspan x="15" y="230">{{ASCII_LINE_11}}</tspan>
+<tspan x="15" y="250">{{ASCII_LINE_12}}</tspan>
+<tspan x="15" y="270">{{ASCII_LINE_13}}</tspan>
+<tspan x="15" y="290">{{ASCII_LINE_14}}</tspan>
+<tspan x="15" y="310">{{ASCII_LINE_15}}</tspan>
+<tspan x="15" y="330">{{ASCII_LINE_16}}</tspan>
+<tspan x="15" y="350">{{ASCII_LINE_17}}</tspan>
+<tspan x="15" y="370">{{ASCII_LINE_18}}</tspan>
+<tspan x="15" y="390">{{ASCII_LINE_19}}</tspan>
+<tspan x="15" y="410">{{ASCII_LINE_20}}</tspan>
+<tspan x="15" y="430">{{ASCII_LINE_21}}</tspan>
+<tspan x="15" y="450">{{ASCII_LINE_22}}</tspan>
+<tspan x="15" y="470">{{ASCII_LINE_23}}</tspan>
+<tspan x="15" y="490">{{ASCII_LINE_24}}</tspan>
+<tspan x="15" y="510">{{ASCII_LINE_25}}</tspan>
+</text>
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">danish@dhanjal</tspan> -———————————————————————————————————————————-—-
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows, Kali Linux, Parrot OS, Ubuntu</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">{{UPTIME}}</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">TIET Patiala B.Tech CS / IIT Guwahati</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Cybersecurity Researcher</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">VSCode</tspan>
+<tspan x="390" y="150" class="cc">. </tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">C, C++, Python, JavaScript, TypeScript</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Frameworks</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">FastAPI, MERN (React, Node, Express, Mongo)</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Databases</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">PostgreSQL, MySQL, SQLite</tspan>
+<tspan x="390" y="230" class="cc">. </tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Ethical Hacking, Web Dev, IoT Security</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Arduino, Hardware Pentesting</tspan>
+<tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">danishdhanjal70@gmail.com</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Phone</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">+91 6283645556</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">danish-dhanjal-758838373</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">danishdhanjal.xyz</tspan>
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Amritsar, Punjab (Available Worldwide)</tspan>
+<tspan x="390" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">{{REPOS}}</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">{{CONTRIB}}</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">{{STARS}}</tspan>
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">{{COMMITS}}</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">{{FOLLOWERS}}</tspan>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc">. </tspan><tspan class="value">{{LOC}}</tspan> ( <tspan class="addColor">{{LOC_ADD}}</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor">{{LOC_DEL}}</tspan><tspan class="delColor">--</tspan> )
+</text>
+</svg>
